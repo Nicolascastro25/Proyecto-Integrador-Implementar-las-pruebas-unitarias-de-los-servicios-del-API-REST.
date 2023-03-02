@@ -1,8 +1,8 @@
 ### Escuela Colombiana de Ingeniería
 
-### IETI - Laboratorio Seguridad JWT
+### IETI - Laboratorio Unit Test
 
-### Diego Leon - Jaime Castro
+### Jaime Castro
 
-####  Implementar la seguridad del API con JWT
+####  Implementar las pruebas unitarias de los servicios del API REST.
 
