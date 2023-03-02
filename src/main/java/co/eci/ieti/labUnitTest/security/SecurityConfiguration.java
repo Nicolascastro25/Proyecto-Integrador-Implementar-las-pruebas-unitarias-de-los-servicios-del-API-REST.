@@ -1,4 +1,4 @@
-package co.eci.ieti.lab2.security;
+package co.eci.ieti.labUnitTest.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

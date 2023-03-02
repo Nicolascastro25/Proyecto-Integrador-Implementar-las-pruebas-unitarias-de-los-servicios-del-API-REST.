@@ -1,13 +1,13 @@
-package co.eci.ieti.lab2;
+package co.eci.ieti.labUnitTest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JWTApplication {
+public class UnitTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JWTApplication.class, args);
+		SpringApplication.run(UnitTestApplication.class, args);
 	}
 
 }

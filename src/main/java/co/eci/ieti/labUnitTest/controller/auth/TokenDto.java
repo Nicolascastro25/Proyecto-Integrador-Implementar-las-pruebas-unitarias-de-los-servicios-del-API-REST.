@@ -1,4 +1,4 @@
-package co.eci.ieti.lab2.controller.auth;
+package co.eci.ieti.labUnitTest.controller.auth;
 
 import java.util.Date;
 

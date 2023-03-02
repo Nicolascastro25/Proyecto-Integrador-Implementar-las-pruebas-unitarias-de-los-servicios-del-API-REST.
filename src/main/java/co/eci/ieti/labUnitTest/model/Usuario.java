@@ -1,4 +1,4 @@
-package co.eci.ieti.lab2.model;
+package co.eci.ieti.labUnitTest.model;
 
 
 public class Usuario {
@@ -15,6 +15,10 @@ public class Usuario {
         this.apellido = apellido;
         this.email = email;
         this.password = password;
+    }
+
+    public Usuario() {
+
     }
 
     public int getId() {

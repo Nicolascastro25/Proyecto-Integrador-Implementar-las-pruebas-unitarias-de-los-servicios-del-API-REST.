@@ -1,4 +1,4 @@
-package co.eci.ieti.lab2.controller;
+package co.eci.ieti.labUnitTest.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -18,11 +18,11 @@ import java.util.Calendar;
 import java.util.List;
 import java.util.Date;
 
-import co.eci.ieti.lab2.controller.auth.LoginDto;
-import co.eci.ieti.lab2.controller.auth.TokenDto;
-import co.eci.ieti.lab2.model.Usuario;
+import co.eci.ieti.labUnitTest.controller.auth.LoginDto;
+import co.eci.ieti.labUnitTest.controller.auth.TokenDto;
+import co.eci.ieti.labUnitTest.model.Usuario;
 
-import co.eci.ieti.lab2.service.UsuarioService;
+import co.eci.ieti.labUnitTest.service.UsuarioService;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import jakarta.annotation.security.RolesAllowed;

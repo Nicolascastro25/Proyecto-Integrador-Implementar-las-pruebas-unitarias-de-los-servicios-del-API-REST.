@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.eci.ieti</groupId>
-	<artifactId>jwtlab</artifactId>
+	<artifactId>UnitTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jwtlab</name>
 	<description>Demo project for Spring Boot</description>

@@ -1,8 +1,8 @@
-package co.eci.ieti.lab2.persistence;
+package co.eci.ieti.labUnitTest.persistence;
 
 import java.util.List;
 
-import co.eci.ieti.lab2.model.Usuario;
+import co.eci.ieti.labUnitTest.model.Usuario;
 
 public interface UsuarioPersistence {
 

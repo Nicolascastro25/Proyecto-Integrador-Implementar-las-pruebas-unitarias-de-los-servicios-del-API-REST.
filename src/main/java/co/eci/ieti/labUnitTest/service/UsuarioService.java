@@ -1,12 +1,12 @@
-package co.eci.ieti.lab2.service;
+package co.eci.ieti.labUnitTest.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import co.eci.ieti.lab2.persistence.UsuarioPersistence;
+import co.eci.ieti.labUnitTest.persistence.UsuarioPersistence;
 import java.util.List;
 
-import co.eci.ieti.lab2.model.Usuario;
+import co.eci.ieti.labUnitTest.model.Usuario;
 
 @Service
 public class UsuarioService {

@@ -1,4 +1,4 @@
-package co.eci.ieti.lab2.persistence.impl;
+package co.eci.ieti.labUnitTest.persistence.impl;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,8 +6,8 @@ import java.util.List;
 
 import org.springframework.stereotype.Component;
 
-import co.eci.ieti.lab2.model.Usuario;
-import co.eci.ieti.lab2.persistence.UsuarioPersistence;
+import co.eci.ieti.labUnitTest.model.Usuario;
+import co.eci.ieti.labUnitTest.persistence.UsuarioPersistence;
 
 @Component
 public class UsuarioPersistenceImpl implements UsuarioPersistence{

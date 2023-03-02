@@ -1,4 +1,4 @@
-package co.eci.ieti.lab2.security;
+package co.eci.ieti.labUnitTest.security;
 
 import org.springframework.stereotype.Component;
 
