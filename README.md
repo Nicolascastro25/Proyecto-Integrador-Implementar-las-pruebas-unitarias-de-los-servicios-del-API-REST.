@@ -1,10 +1,8 @@
 ### Escuela Colombiana de Ingeniería
 
-### IETI - Laboratorio Unit Test
+### IETI - Implementar las pruebas unitarias de los servicios del API REST.
 
 ### Jaime Castro
-
-####  Implementar las pruebas unitarias de los servicios del API REST.
 
 #### Implementación y ejecución de las pruebas: 
 
